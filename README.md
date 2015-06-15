@@ -4,5 +4,5 @@ In this project you are given a web-based application that reads RSS feeds. The 
 
 
 ### To run this app
-* Open [Matt's home page](http://richards777.com/ "Matt's Home Page") with a web browser.
+* Open [Matt's GitHub web page](http://mattr777.github.io/ "Matt's GitHub Page") with a web browser.
 * A feed reader app will run with Jasmine test results at the bottom of the page. All specs should pass.
